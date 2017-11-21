@@ -28,7 +28,7 @@
               <h2 class="widget__title">Menu</h2>
             </div>
             <div class="widget__content">
-              <nav class="nav nav--footer"><a href="<?php echo base_url();?>" class="navbar__link">Accueil</a><!-- <a href="<?php echo base_url('index.php/parcours/etapes');?>" class="navbar__link">Mon Parcours</a><a href="<?php echo base_url('index.php/parcours/carte');?>" class="navbar__link">J'irai dormir chez vous</a><a href="<?php echo base_url('index.php/don');?>" class="navbar__link">Faire un don</a><a href="<?php echo base_url('index.php/contact');?>" class="navbar__link">Contact</a> --></nav>
+              <nav class="nav nav--footer"><a href="<?php echo base_url();?>" class="navbar__link">Accueil</a><a href="<?php echo base_url('index.php/parcours/etapes');?>" class="navbar__link">Mon Parcours</a><a href="<?php echo base_url('index.php/parcours/carte');?>" class="navbar__link">J'irai dormir chez vous</a><a href="<?php echo base_url('index.php/don');?>" class="navbar__link">Faire un don</a><a href="<?php echo base_url('index.php/contact');?>" class="navbar__link">Contact</a></nav>
 
             </div>
           </div>
