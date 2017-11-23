@@ -64,7 +64,7 @@
                         <div class="feature__item-content">
                           <h3 class="feature__item-title">MISSION DE MILLE ET UN SOURIRES</h3>
                           <div class="feature__text">
-                            <p>A l’hôpital ou à domicile, Mille et Un Sourires intervient auprès des enfants et de leur famille afin de les soutenir et contribuer à améliorer leur quotidien :
+                            <p>A l’hôpital ou à domicile, Mille et Un Sourires intervient auprès des enfants et des familles touchés par la maladie ou le handicap afin de les soutenir et contribuer à améliorer leur quotidien :
                               <ul>
                                 <li><b>Soutien moral</b></li>
                                 <li><b>Achat de matériel</b> : contribution à l’achat de matériel spécifique et pédagogique</li>

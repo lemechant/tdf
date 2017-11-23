@@ -1,55 +1,47 @@
   <div class="center">
-          <div class="container">
-            <div class="row">
-              <!-- BEGIN site-->
-              <div class="site site--main">
-                <header class="site__header">
-                  <h1 class="site__title">Page</h1>
-                  <h2 class="site__headline">Check out our new market updates</h2>
-                </header>
-                <div class="site__main">
-                  <div class="widget js-widget widget--main widget--no-margin">
-                    <div class="widget__content">
-                      <article class="article article--list article--details">
-                        <div class="article__body">
-                          <p><strong>While Eichler homes are usually associated with the Mid-Century Modern heyday of the 1950s and 1960s, the legendary developer built homes well into the early &rsquo;70s. Built in 1972, this Palo Alto, CA, stunner has hit the market at $2,699,000 and is a prime example of the Mid-Century aesthetic extending into the initial years of the Me Decade.</strong></p>
-                          <p>
-                            The four-bedroom, two-bathroom home offers 1,978 square feet of living space and a spacious backyard designed for entertaining.
-                            Listing agent Tim Foy said this home is from &ldquo;One of Eichler&rsquo;s last tracts. It may be the very last tract in Palo Alto.&rdquo;
-                          </p><img src="<?php echo base_url('public/');?>media-demo/properties/870x480/02.jpg" alt="">
-                          <p>Foy told us the home was purchased over 40 years ago before hammer even hit nail, and the original buyers were able to specify customizations and upgrades not seen in many other Eichlers. One of their requests was to have the knot-free redwood paneled walls extend into the open-air atrium at the center of the home. The home&rsquo;s stunning cathedral ceilings are beautiful redwood and give the home a warmth not usually associated with Eichlers.</p>
-                          <blockquote>&ldquo;When you walk in the front door, all the redwood creates a warmth,&rdquo; said Foy. &ldquo;It feels really homey. It&rsquo;s truly an &lsquo;aha!&rsquo; moment for a lot of people. Of course, the home appeals to Eichler lovers&mdash;but it also appeals to people who weren&rsquo;t prepared to like an Eichler.&rdquo;</blockquote>
-                          <p>As with all Eichler homes, the integration of indoor space and outdoors is key. Floor-to-ceiling windows along the back of the house let in plenty of natural light and create a seamless flow. Extensively remodeled inside and out over the past couple of years, the home&rsquo;s current owners thoughtfully and faithfully documented all of the updates they&rsquo;ve made. The home&rsquo;s price tag reflects its Palo Alto address, and Foy told us the market at the epicenter of the Bay Area shows no signs of slowing. While the college city continues its red-hot pace, the agent told us he&rsquo;s also seen renewed interest in Palo Alto Eichlers:</p>
-                          <ul>
-                            <li>Listing/content source</li>
-                            <li>Realtor.com real estate market reports</li>
-                            <li>Median age of inventory</li>
-                          </ul>
-                          <p><i>&ldquo;High-tech professionals love these homes,&rdquo; he noted. &ldquo;We&rsquo;ve seen a resurgence in Eichler interest over the past five years, and the market for these homes has really heightened in the last couple of years.heightened in the last couple of years.&rdquo;</i></p>
-                          <p>Extensively remodeled inside and out over the past couple of years, the home&rsquo;s current owners thoughtfully and faithfully documented all of the updates they&rsquo;ve made.</p>
-                          <h3>Active Listings Inventory</h3>
-                          <p><img src="<?php echo base_url('public/');?>media-demo/properties/277x180/07.jpg" alt="" style="float: right; margin: 0 0 10px 10px;">The home&rsquo;s price tag reflects its Palo Alto address, and Foy told us the market at the epicenter of the Bay Area shows no signs of slowing. While the college city continues its red-hot pace, the agent told us he&rsquo;s also seen renewed interest in Palo Alto Eichlers.</p>
-                          <p>&ldquo;High-tech professionals love these homes,&rdquo; he noted. &ldquo;We&rsquo;ve seen a resurgence in Eichler interest over the past five years, and the market for these homes has really heightened in the last couple of years.&rdquo; Floor-to-ceiling windows along the back of the house let in plenty of natural light and create a seamless flow.</p>
-                          <p>Foy told us the home was purchased over 40 years ago before hammer even hit nail, and the original buyers were able to specify customizations and upgrades not seen in many other Eichlers. One of their requests was to have the knot-free redwood paneled walls extend into the open-air atrium at the center of the home. The home&rsquo;s stunning cathedral ceilings are beautiful redwood and give the home a warmth not usually associated with Eichlers.</p>
-                          <p>&ldquo;When you walk in the front door, all the redwood creates a warmth,&rdquo; said Foy. &ldquo;It feels really homey. It&rsquo;s truly an &lsquo;aha!&rsquo; moment for a lot of people. Of course, the home appeals to Eichler lovers&mdash;but it also appeals to people who weren&rsquo;t prepared to like an Eichler.&rdquo;</p>
-                          <p>As with all Eichler homes, the integration of indoor space and outdoors is key. Floor-to-ceiling windows along the back of the house let in plenty of natural light and create a seamless flow.</p>
-                          <p>Extensively remodeled inside and out over the past couple of years, the home&rsquo;s current owners thoughtfully and faithfully documented all of the updates they&rsquo;ve made.</p>
+    <div class="container">
+      <div class="row">
+        <div class="site site--main">
+          <header class="site__header">
+            <h1 class="site__title">Faire un don</h1>
+          </header>
+          <div class="site__main">
+            <div class="widget js-widget widget--main widget--no-margin">
+              <div class="widget__content">
+                <article class="article article--list article--details">
+                  <div class="article__body"><center>
+                    <p><strong>Tous les dons perçus seront <b>intégralement</b> reverser à l’association Mille et Un Sourires.</strong></p>
+                    <p>
+                     Ainsi, pour effectuer un don à Tour de France pour Mille et Un Sourires deux options s’offrent à vous :
+                     <div class="row">
+                      <div class="col-md-6">
+                        <h2>Le don sécurisé par paypal</h2>
+                        <p>
+                          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="FPCABE4D5NCVE">
+                            <input type="image" target="_blank" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+                          </form></p>
+
                         </div>
-                        <div class="article__footer">
-                          <div class="social social--article"><span>Share this post:</span><a href="#" class="social__item"><i class="fa fa-facebook"></i></a><a href="#" class="social__item"><i class="fa fa-twitter"></i></a><a href="#" class="social__item"><i class="fa fa-google-plus"></i></a></div>
+                        <div class="col-md-6">
+                          <h2>Le don par chèque</h2>
+                          <p> Pour les dons par chèque, veuillez télécharger le formulaire en cliquant dessus et nous le faire parvenir avec votre règlement à l'adresse indiquée.</p> <a target="_blank" href="<?php echo base_url(); ?>public/Formulaire-de-dons.pdf" ><img src="<?php echo base_url(); ?>public/img/pdf.png"  height="100" width="100" alt="don par chèque" ></a>
                         </div>
-                      </article>
-                    </div>
+                      </p>
+                    </center>
                   </div>
-                </div>
-                <!-- END site-->
+                  <div class="article__footer">
+                    <div class="social social--article"><span>Partagez cette page :</span><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftdfpour1001sourires.fr%2Findex.php%2Fdon" class="social__item"><i class="fa fa-facebook"></i></a></div>
+                  </div>
+                </article>
               </div>
-              
-              <div class="clearfix"></div>
             </div>
           </div>
         </div>
-        <!-- END CENTER SECTION-->
-          <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlOpM0sOND9rvRk06DScgVvRTUhJpkujE&callback=initMap">
-    </script>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</script>
