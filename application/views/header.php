@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="<?php echo base_url();?>public/css/font-awesome.css">
     <link rel="stylesheet" href="<?php echo base_url();?>public/css/theme-default.css">
     <link rel="stylesheet" href="<?php echo base_url();?>public/css/custom.css">
-    <link rel="icon" href="<?php echo base_url();?>/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo base_url();?>public/img/favicon.ico" type="image/x-icon">
 </head>
 
 <body class="dashboard_news menu-default hover-default compact bg-diagonal-noise home scroll-animation scroll-animation">
